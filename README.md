@@ -221,10 +221,10 @@ python src/simulation.py
 ![Dashboard](assets/Dashboard%20screenshot.png)
 
 ### Risk Simulation
-![Dashboard](assets/dashboard%20screenshot-2.png)
+![Dashboard](assets/dashboard%20screenshot_2.png)
 
 ### Model Insights
-![Dashboard](assets/dashboard%20screenshot-3.png)
+![Dashboard](assets/dashboard%20screenshot_3.png)
 
 ## 🤝 Contributing
 
