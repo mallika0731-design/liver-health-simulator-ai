@@ -215,6 +215,17 @@ python src/simulation.py
 
 ---
 
+## 📸 Demo
+
+### Dashboard Overview
+![Dashboard](assets/Dashboard%20screenshot.png)
+
+### Risk Simulation
+![Dashboard](assets/dashboard%20screeenshot%202.png)
+
+### Model Insights
+![Dashboard](assets/dashboard%20screenshot%203.png)
+
 ## 🤝 Contributing
 
 Pull requests welcome. Key areas for extension:
