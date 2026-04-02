@@ -1,7 +1,9 @@
 # 🫀 Digital Twin Simulator — Obesity-Induced Liver Disease Risk
 
-> **IIT BHU Hackathon-Ready · Production-Grade · Bayesian Probabilistic AI**
-An AI-powered simulator that predicts how lifestyle changes like diet, exercise, and alcohol affect liver disease risk over time
+> ** Production-Grade · Bayesian Probabilistic AI**
+An AI-powered digital twin that simulates how lifestyle changes like diet, exercise, and alcohol affect liver disease risk over time.
+
+Users can explore how improving habits reduces risk and improves liver health.
 A full-stack, production-quality digital twin that simulates liver disease risk driven by obesity and lifestyle factors, using a Probabilistic Machine Learning with Uncertainty Quantification (Bootstrap-based), inspired by Bayesian principles having confidence intervals and time-evolution simulation.
 
 ---
